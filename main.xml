@@ -1,2 +1,54 @@
 <theme>
+<formatVersion>7</formatVersion>
+
+<view>
+
+<text name="clock">
+<color></color>
+<glowColor></glowColor>
+<pos></pos>
+<size></size>
+<verticalAligment>right</verticalAligment>
+</text>
+
+<controllerActivity name="controllerActivity">
+<color></color>
+<pos></pos>
+<size></size>
+<imagePath></imagePath>
+<itemSpacing>0</itemSpacing>
+<activityColor></activityColor>
+<hotkeyColor></hotkeyColor>
+</controllerActivity>
+
+<menuText name="menuText">
+<color></color>
+<fontPath></fontPath>
+<fontSize></fontSize>
+<separatorColor></separatorColor>
+<selectColor><selectColor>
+</menuText>
+
+<menuIcons name="menuIcons">
+<iconKodi></iconKodi>
+<iconSystem></iconSystem>
+<iconUpdates></iconUpdates>
+<iconControllers></iconControllers>
+<iconUI></iconUI>
+<iconSound></iconSound>
+<iconNetwork></iconNetwork>
+<iconScraper></iconScraper>
+<iconAdvanced></iconAdvanced>
+<iconQuit></iconQuit>
+<iconRestart></iconRestart>
+<iconShutdown></iconShutdown>
+<iconFastShutdown></iconFastShutdown>
+<iconRetroachivements></iconRetroachivements>
+</menuIcons>
+
+</menuIcons>
+
+
+</view>
+
 </theme>
