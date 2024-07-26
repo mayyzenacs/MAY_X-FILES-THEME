@@ -4,22 +4,33 @@
 <view>
 
 <text name="clock">
-<color></color>
+<color>ffffff</color>
 <glowColor></glowColor>
-<pos></pos>
-<size></size>
-<verticalAligment>right</verticalAligment>
+<pos><0.945 0.95/pos>
+<size>0.9 0.056</size>
+<fontPath></fontPath>
+<fontSize>0.035</fontSize>
+<origin>0.5 0.5</origin>
 </text>
 
 <controllerActivity name="controllerActivity">
-<color></color>
-<pos></pos>
-<size></size>
+<color>ffffff</color>
+<pos>0.01 0.010</pos>
+<size>0.085 0.025</size>
 <imagePath></imagePath>
-<itemSpacing>0</itemSpacing>
-<activityColor></activityColor>
-<hotkeyColor></hotkeyColor>
+<itemSpacing>0.003</itemSpacing>
+<activityColor>FF634710</activityColor>
 </controllerActivity>
+
+</view>
+
+<view name="menu">
+
+<menuText name="menuTitle">
+<color></color>
+<fontPath></fontPath>
+<fontSize></fontSize>
+</menuText>
 
 <menuText name="menuText">
 <color></color>
@@ -48,7 +59,7 @@
 
 </menuIcons>
 
-
 </view>
+
 
 </theme>
