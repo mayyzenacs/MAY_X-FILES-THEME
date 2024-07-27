@@ -1,7 +1,26 @@
+<!--
+theme name:     MAY_X-FILES-THEME
+version:        1.0
+author:         mayyzenacs
+email:
+website:
+license:        creative commons CC-BY-NC-SA
+based on:       
+-->
+
 <theme>
 <formatVersion>7</formatVersion>
 
 <view>
+
+	<view name="system">
+	
+		<image name="background" extra="true">
+			<size>0 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+		</image>
+	</view>
 
 <text name="clock">
 <color>ffffff</color>
